@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+    .login-outer{
+        background: #e8e8e8 !important;
+    }
+    div.login-icons .login-adLink{
+        padding: 0 4px !important;
+    }
+
+    #ember33{
+        padding-top: 5px !important;
+    }
+}
